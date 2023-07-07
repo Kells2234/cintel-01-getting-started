@@ -43,7 +43,7 @@ header {
 /* Apply these styles to the html elements with a 'class' attribute = 'sidebar'. */
 
 /* TODO: Change the sidebar color  */
-.sidebar {
+.sidebar {green
   flex: 1;
   padding: 10px;
   background-color: #6e0c0c;
